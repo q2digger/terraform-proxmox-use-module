@@ -23,5 +23,6 @@ Just for remember:
 - qm set 9002 --boot c --bootdisk scsi0
 - qm set 9002 --serial0 socket --vga serial0
 - qm set 9002 --agent enabled=1
+- .. prepare you virtual machine , and then create template 
 - qm template 9002
 
